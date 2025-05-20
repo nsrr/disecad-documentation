@@ -2,6 +2,8 @@
 
 Our prospective clinical trial, DISE-CAD, Characterizing Mechanisms of Upper Airway Obstruction During Drug-Induced Sleep Endoscopy (DISE) is a 5-year project sponsored by the NIH, NHLBI that was conducted at UPenn (originating institution). We have recruited 33 patients to date, all of which have an implanted Inspire hypoglossal nerve stimulator (eligibility criteria) for treatment of OSA. These patients have underwent DISE (including CPAP titration and stimulation with Inspire), MRI of the upper airway, a split-night PSG (half night baseline, half night with Inspire), craniofacial photos, and tongue force measurements. Data would include physiology from DISE and PSG (e.g. respiratory signals, airway pressure, airflow), video grading via VOTE score, demographics, anthropometrics, and baseline OSA characteristics derived from PSG (e.g. AHI, ODI). These data are being used to determine what factors might predict successful response to HGNS/Inspire surgery.
 
+The DISE-CAD dataset on NSRR includes the following data: demographics, anthropometry, sleep study results, and DISE findings. Signal data (EDF) from the DISE procedures are available for 32/33 subjects.
+
 ## Methods
 
 ### Inclusion criteria
