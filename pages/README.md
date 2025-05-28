@@ -1,6 +1,6 @@
 ## About
 
-Our prospective clinical trial, DISE-CAD, Characterizing Mechanisms of Upper Airway Obstruction During Drug-Induced Sleep Endoscopy (DISE) is a 5-year project sponsored by the NIH, NHLBI that was conducted at UPenn (originating institution). We have recruited 33 patients to date, all of which have an implanted Inspire hypoglossal nerve stimulator (eligibility criteria) for treatment of OSA. These patients have underwent DISE (including CPAP titration and stimulation with Inspire), MRI of the upper airway, a split-night PSG (half night baseline, half night with Inspire), craniofacial photos, and tongue force measurements. Data would include physiology from DISE and PSG (e.g. respiratory signals, airway pressure, airflow), video grading via VOTE score, demographics, anthropometrics, and baseline OSA characteristics derived from PSG (e.g. AHI, ODI). These data are being used to determine what factors might predict successful response to HGNS/Inspire surgery.
+DISE-CAD, Characterizing Mechanisms of Upper Airway Obstruction During Drug-Induced Sleep Endoscopy (DISE) is a 5-year prospective clinical trial sponsored by the NIH/NHLBI that was conducted at the University of Pennsylvania (originating institution). The dataset includes 33 patients to date, all of whom have an implanted Inspire hypoglossal nerve stimulator (eligibility criteria) for treatment of OSA. These patients have undergone DISE (including CPAP titration and stimulation with Inspire), MRI of the upper airway, a split-night PSG (half-night baseline, half-night with Inspire), craniofacial photos, and tongue force measurements. Data includes physiology from DISE and PSG (e.g. respiratory signals, airway pressure, airflow), video grading via VOTE score, demographics, anthropometrics, and baseline OSA characteristics derived from PSG (e.g. AHI, ODI). These data are being used to determine what factors might predict a successful response to HGNS/Inspire surgery.
 
 The DISE-CAD dataset on NSRR includes the following data: demographics, anthropometry, sleep study results, and DISE findings. Signal data (EDF) from the DISE procedures are available for 32/33 subjects.
 
@@ -40,7 +40,7 @@ The harmonized-dataset contains many of the most frequently used demographic and
     <tr><td><b>Variable</b></td><td><b>Label</b></td></tr>
     <tr><td><a href=":variables_path:/nsrr_age">nsrr_age</a></td><td>Subject age</td></tr>
     <tr><td><a href=":variables_path:/nsrr_sex">nsrr_sex</a></td><td>Subject sex</td></tr> 
-    <tr><td><a href=":variables_path:/nsrr_race">nsrr_race</a></td><td>Subject race</td></tr> 
+    <tr><td><a href=":variables_path:/nsrr_bmi">nsrr_bmi</a></td><td>Body mass index (BMI)</td></tr> 
   </table>
 
 ### DISE procedure raw signal data
@@ -60,6 +60,10 @@ The DISE-CAD dataset is only available for non-commercial use.
 When using this dataset, users must cite the following:
 
 > [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+>
+> [Dedhia RC, Seay EG, Schwartz AR. Beyond VOTE: The New Frontier of Drug-Induced Sleep Endoscopy. ORL J Otorhinolaryngol Relat Spec. 2022;84(4):296-301. doi: 10.1159/000518660. Epub 2021 Sep 27. PMID: 34818232; PMCID: PMC8957630.](https://pubmed.ncbi.nlm.nih.gov/34818232/)
+>
+> [Harkins T, Tangutur A, Keenan BT, Seay EG, Thuler E, Dedhia RC, Schwartz AR. Pharyngeal Manometry and Upper Airway Collapse During Drug-Induced Sleep Endoscopy. JAMA Otolaryngol Head Neck Surg. 2024 Oct 1;150(10):869-876. doi: 10.1001/jamaoto.2024.2559. PMID: 39207817; PMCID: PMC11362972.](https://pubmed.ncbi.nlm.nih.gov/39207817/)
 
 Users must include the following text in any Acknowledgements:
 
