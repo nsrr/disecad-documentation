@@ -18,7 +18,9 @@ MRI contraindications (e.g. claustrophobia, implants other than HGNS, foreign bo
 
 Polysomnography: Alice 6
 
-Drug-induced sleep endoscopy: Nox Medical Noxturnal Software with A-1 HST and C-1 Access Point, Millar PCU-2000 for pharyngeal manometry, Siemens MRI scanner
+Drug-induced sleep endoscopy: Nox Medical Noxturnal Software with A-1 HST and C-1 Access Point, Millar PCU-2000 for pharyngeal manometry
+
+Upper airway imaging: Siemens MRI scanner
 
 ## Data de-identification
 
